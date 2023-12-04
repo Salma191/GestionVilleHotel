@@ -1,4 +1,4 @@
-# GestionVilleHotel
+# Gestion des villes
 ## La liste des villes
 ![Capture d'écran 2023-12-04 225055](https://github.com/Salma191/GestionVilleHotel/assets/116913855/11d29951-367c-44f2-a591-07f781ab6063)
 
@@ -16,3 +16,15 @@
 ![Capture d'écran 2023-12-04 231329](https://github.com/Salma191/GestionVilleHotel/assets/116913855/28851883-410d-403c-8cbf-eb7c4be61347)
 
 ![Capture d'écran 2023-12-04 231438](https://github.com/Salma191/GestionVilleHotel/assets/116913855/45462f3a-d6a0-4053-9e60-27c238a947b9)
+# Gestion des hotels
+## La liste des hotels
+![Capture d'écran 2023-12-05 000855](https://github.com/Salma191/GestionVilleHotel/assets/116913855/c440a655-14ec-4794-9f5a-119dede24493)
+
+## L'ajout d'un hotel
+![Capture d'écran 2023-12-05 001034](https://github.com/Salma191/GestionVilleHotel/assets/116913855/7d1de1dd-5a87-42aa-b038-6d24d7043572)
+![Capture d'écran 2023-12-05 001049](https://github.com/Salma191/GestionVilleHotel/assets/116913855/2ca42c74-95cb-4d07-92b6-fc4001a8d8cd)
+
+## La suppression d'un hotel
+![Capture d'écran 2023-12-05 001745](https://github.com/Salma191/GestionVilleHotel/assets/116913855/42d1604e-544a-4275-8522-b70ed152026a)
+![Capture d'écran 2023-12-05 001811](https://github.com/Salma191/GestionVilleHotel/assets/116913855/2a72241d-993d-4cd0-9aaa-dc65d7300fcd)
+
